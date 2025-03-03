@@ -4,14 +4,13 @@ This organization hosts the **Hospital System** project's microservices architec
 The project consists of the following services:  
 
 ## 📌 Microservices  
-- **HospitalService** → Hospital management  
-- **IdentityService** → User authentication  
-- **NotificationService** → Notification management (Java - Spring Boot)  
-- **PaymentService** → Payment processing  
+- **HospitalService** → Hospital management (C# - .NET Core) 
+- **IdentityService** → User authentication (C# - .NET Core)
+- **PaymentService** → Payment processing (Java - Spring Boot) 
 
 ## 🚀 Technologies  
 - **.NET 8 (C#)** & **Spring Boot (Java)**  
-- **PostgreSQL & Redis**  
+- **SQL Server & Redis**  
 - **Docker & Kubernetes**  
 - **RabbitMQ**  
 - **API Gateway (Ocelot)**  
