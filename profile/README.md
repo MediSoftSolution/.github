@@ -10,9 +10,8 @@ The project consists of the following services:
 
 ## 🚀 Technologies  
 - **.NET 8 (C#)** & **Spring Boot (Java)**  
-- **SQL Server & Redis**  
+- **SQL Server & Postgresql & Redis** 
 - **Docker & Kubernetes**  
-- **RabbitMQ**  
 - **API Gateway (Ocelot)**  
 
 ## 📫 Contact  
