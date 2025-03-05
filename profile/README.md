@@ -6,7 +6,8 @@ The project consists of the following services:
 ## 📌 Microservices  
 - **HospitalService** → Hospital management (C# - .NET Core) 
 - **IdentityService** → User authentication (C# - .NET Core)
-- **PaymentService** → Payment processing (Java - Spring Boot) 
+- **PaymentService** → Payment processing (Java - Spring Boot)
+- **NotificationService** → Handle notification process (NodeJS - Express)
 
 ## 🚀 Technologies  
 - **.NET 8 (C#)** & **Spring Boot (Java)**  
