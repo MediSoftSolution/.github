@@ -8,7 +8,7 @@ Each microservice is an independent project, handling a specific functionality w
 ### 🚀 Microservices
 | Service | Description | Repository |
 |---------|-------------|------------|
-| **[HospitalService](https://github.com/MediSoftSolution/HospitalService)** | Manages hospitals, doctors, and patients | C# - .NET 8 |
+| **[HospitalService](https://github.com/MediSoftSolution/HospitalSystem)** | Manages hospitals, doctors, and patients | C# - .NET 8 |
 | **[IdentityService](https://github.com/MediSoftSolution/IdentityService)** | Handles user authentication and authorization | C# - .NET 8 |
 | **[PaymentService](https://github.com/MediSoftSolution/PaymentService)** | Processes payments and transactions | Java - Spring Boot |
 | **[NotificationService](https://github.com/MediSoftSolution/NotificationService)** | Sends notifications via email, SMS, and push | Node.js - Express |
